@@ -1,6 +1,0 @@
-This Code was written by:
-Suliman Badour , Amer Al Badr , Mohamad Al Madfaa
-
-We didn't use Live Script because of some technical issues
-
-Open (Main.m) file to run the code,  other files are Functions.
